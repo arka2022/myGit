@@ -1,0 +1,18 @@
+·       Goibibo Logo:             //span[@class='header-sprite logo']
+·       Login and Sign Up:        //div[@class='animTxtWrp ' and .//text()='LOGIN / SIGNUP']
+
+·       Hotels, Flights:
+                  Hotels:        //a[@class='nav-link .' and .//text()='Hotels']
+                  Flights:       //a[@class='nav-link active' and .//text()='Flights']
+·       From:                    //div[@class='sc-hiCibw dGZLZw' and .//text()='Enter city or airport']
+
+·       Search:                 //span[@class='sc-fHeRUh jHgPBA' and .//text()='SEARCH FLIGHTS']
+ 
+·       Student Fare:           //span[@class='sc-gKclnd kDbVbq' and .//text()='student']
+
+·       Products:               //a[@class='fb button orange padLR30 txtTransUpper marginB10 fltHpySrchBtn' and .//text()='VIEW ALL PRODUCTS']
+
+·       Round Trips:            //span[@class='sc-gsNilK dImRia' and .//text()='Round-trip']
+
+
+
