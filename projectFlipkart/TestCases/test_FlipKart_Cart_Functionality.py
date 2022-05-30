@@ -61,6 +61,7 @@ class Flipkart_LoginTest(unittest.TestCase):
         cp=Cartpage(driver)
         amount=cp.return_total_amount()
         logger.info('Total ammount is %s'%(amount))
+        driver.save_screenshot("/Users/arkapdas/PycharmProjects/projectFlipkart/Screenshot/" + "cart.png")
         print(amount)
         time.sleep(5)
         cp.remove_baskert()
@@ -71,3 +72,5 @@ class Flipkart_LoginTest(unittest.TestCase):
         time.sleep(1)
         cls.driver.close()
         cls.driver.quit()
+
+

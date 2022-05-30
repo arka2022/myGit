@@ -57,6 +57,7 @@ class Flipkart_LoginTest(unittest.TestCase):
         #Add new home address
         mp.add_new_address_home(xlData.name,xlData.mobile,xlData.pin,xlData.locality,xlData.address)
         logger.info('New address added successfully')
+        driver.save_screenshot("/Users/arkapdas/PycharmProjects/projectFlipkart/Screenshot/" + "address_page.png")
 
 
 

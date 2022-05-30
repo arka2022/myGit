@@ -41,6 +41,7 @@ class Flipkart_LoginTest(unittest.TestCase):
         #Navigate to logout
         hp.goto_logout(driver)
         logger.warning('Logout successful')
+        driver.save_screenshot("/Users/arkapdas/PycharmProjects/projectFlipkart/Screenshot/" + "logout.png")
 
 
 

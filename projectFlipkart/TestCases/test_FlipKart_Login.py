@@ -10,6 +10,8 @@ from Config.config import TestData
 import unittest
 import sys
 import os
+
+
 import logging
 logger = logging.getLogger()
 fhandler = logging.FileHandler(filename='/Users/arkapdas/PycharmProjects/projectFlipkart/Log/ProjectLog.txt', mode='a')
@@ -38,6 +40,8 @@ class Flipkart_LoginTest(unittest.TestCase):
         time.sleep(3)
         assert driver.title == "Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!"
         logger.info('Login successful')
+        driver.save_screenshot("/Users/arkapdas/PycharmProjects/projectFlipkart/Screenshot/"+"login.png")
+
 
 
     @classmethod
@@ -46,5 +50,8 @@ class Flipkart_LoginTest(unittest.TestCase):
         cls.driver.close()
         cls.driver.quit()
 
-#Pytest -v -s -- html=/Users/arkapdas/PycharmProjects/projectFlipkart/TestCases/test_FlipKart_Login.py/reportname.html
+
+#pytest -s -v --html=/Users/arkapdas/PycharmProjects/projectFlipkart/Results/LOGIN.html /Users/arkapdas/PycharmProjects/projectFlipkart/TestCases/test_FlipKart_Login.py
+
+
 
