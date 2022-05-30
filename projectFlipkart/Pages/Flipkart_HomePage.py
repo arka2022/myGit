@@ -43,7 +43,7 @@ class HomePage:
         #driver.execute_script("arguments[0].scrollIntoView();", fashon_link)
         #fashon_link.click()
         fashon_all_link=self.driver.find_element_by_xpath(locators.fashon_all_link)
-        #river.execute_script("arguments[0].scrollIntoView();", fashon_all_link)
+        #driver.execute_script("arguments[0].scrollIntoView();", fashon_all_link)
         fashon_all_link.click()
         time.sleep(3)
         fashon_all_link.click()
@@ -55,6 +55,28 @@ class HomePage:
         myProfile_button.click()
         logout_button= self.driver.find_element_by_xpath(locators.logout)
         logout_button.click()
+
+    def search_items(self,search_item):
+        search_textbox=self.driver.find_element_by_xpath(locators.search_textbox)
+        search_textbox.send_keys(search_item)
+        search_icon_button=self.driver.find_element_by_xpath(locators.search_icon_button)
+        search_icon_button.click()
+
+
+    def use_filter_brand_tata(self,driver):
+        f_assured_icon_we=self.driver.find_element_by_xpath(locators.f_assured_icon_we)
+        driver.execute_script("arguments[0].scrollIntoView();", f_assured_icon_we)
+        tata_checkbox=self.driver.find_element_by_xpath(locators.tata_checkbox)
+        tata_checkbox.click()
+
+    def get_first_search_element(self):
+        first_searched_element=self.driver.find_element_by_xpath(locators.first_searched_element)
+        return first_searched_element.text
+
+
+
+
+
 
 
 

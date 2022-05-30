@@ -5,8 +5,8 @@ import pytest
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By
 
-from Config.ReadExcel import xlData
-from Config.config import TestData
+from TestData_read.ReadExcel import xlData
+from TestData_read.browser_Page import TestData
 import unittest
 import sys
 import os

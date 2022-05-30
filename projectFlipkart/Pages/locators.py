@@ -63,6 +63,17 @@ class locators():
     buscuit_link = "//a[contains(text(),'Biscuit')]"
 
 
+    # Search Bar
+    search_textbox="//input[@type='text']"
+    search_icon_button="//button[@class='L0Z3Pu']"
+
+    #Filter Brands
+    f_assured_icon_we="//img[@class='_3U-Vxu']"
+    tata_checkbox="//div[@class='_3879cV'][contains(text(),'Tata')]"
+    first_searched_element="//div[@class='_4ddWXP']"
+
+
+
 
 
 
