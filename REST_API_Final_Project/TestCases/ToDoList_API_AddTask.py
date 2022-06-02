@@ -1,6 +1,7 @@
 import  requests
 import json
 import jsonpath
+import openpyxl
 
 from TestCases.ToDoList_API_UserUpdate import TestUser
 from Uitls.XLUtils import XLRead
@@ -46,6 +47,22 @@ class TestAPI_addTask:
         assert resp.status_code == 201
         logger.info('Status code:  %s' % (resp.status_code))
 
+    def test_addmultipleTasks(self):
+        url = URLS.add_task_url
+        loc = "/Users/arkapdas/PycharmProjects/REST_API_Final_Project/TestData/UserDatabase.xlsx"
+        wb = openpyxl.load_workbook(loc)
+        sh1 = wb['Tasks']
+        mr = sh1.max_row  # maximum row in sheet
+        mc = sh1.max_column  # max column in sheet
+
+        tok = Read_Write_Txt.token_read(self)
+        headers_dict = {"Authorization": "Bearer " + tok}
+
+
+        for i in range(1,mr):
+            json_ip={sh1.cell(i,1).value: sh1.cell(i,2).value}
+            print(json_ip)
+            resp = requests.post(url, json=json_ip, headers=headers_dict)
 
 
 
