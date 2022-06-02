@@ -1,0 +1,15 @@
+2022-06-02 15:40:54,277 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-nodejs-todolist.herokuapp.com:443
+2022-06-02 15:40:56,364 - urllib3.connectionpool - DEBUG - https://api-nodejs-todolist.herokuapp.com:443 "POST /user/register HTTP/1.1" 201 345
+2022-06-02 15:40:56,370 - root - INFO - Status code:  201
+2022-06-02 15:40:56,377 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-nodejs-todolist.herokuapp.com:443
+2022-06-02 15:40:58,205 - urllib3.connectionpool - DEBUG - https://api-nodejs-todolist.herokuapp.com:443 "POST /user/login HTTP/1.1" 200 345
+2022-06-02 15:40:58,209 - root - INFO - Status code:  200
+2022-06-02 15:40:58,218 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-nodejs-todolist.herokuapp.com:443
+2022-06-02 15:40:59,709 - urllib3.connectionpool - DEBUG - https://api-nodejs-todolist.herokuapp.com:443 "GET /user/me HTTP/1.1" 200 176
+2022-06-02 15:40:59,710 - root - INFO - Status code:  200
+2022-06-02 15:40:59,715 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-nodejs-todolist.herokuapp.com:443
+2022-06-02 15:41:01,378 - urllib3.connectionpool - DEBUG - https://api-nodejs-todolist.herokuapp.com:443 "PUT /user/me HTTP/1.1" 200 200
+2022-06-02 15:41:01,381 - root - INFO - Status code:  200
+2022-06-02 15:41:01,386 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-nodejs-todolist.herokuapp.com:443
+2022-06-02 15:41:03,140 - urllib3.connectionpool - DEBUG - https://api-nodejs-todolist.herokuapp.com:443 "POST /user/logout HTTP/1.1" 200 16
+2022-06-02 15:41:03,145 - root - INFO - Status code:  200
