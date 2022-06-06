@@ -8,6 +8,8 @@ from Uitls.XLUtils import XLRead
 from Uitls.readText import Read_Write_Txt
 from Uitls.readUrl import URLS
 import logging
+
+
 logger = logging.getLogger()
 fhandler = logging.FileHandler(filename='/Users/arkapdas/PycharmProjects/REST_API_Final_Project/Log/Addtask.txt', mode='a+')
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
