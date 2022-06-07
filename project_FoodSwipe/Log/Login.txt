@@ -1,0 +1,52 @@
+2022-06-06 16:13:20,490 - root - INFO - Login successful
+2022-06-06 16:23:13,433 - root - INFO - Login successful
+2022-06-06 16:23:15,818 - root - INFO - Logout successful
+2022-06-06 16:38:46,553 - root - INFO - Login successful
+2022-06-06 16:38:48,703 - root - INFO - Logout successful
+2022-06-06 16:44:12,574 - root - INFO - Login successful
+2022-06-06 16:44:15,640 - root - INFO - Logout successful
+2022-06-06 16:46:33,529 - root - INFO - RootPath is:  /Applications/PyCharm CE.app/Contents/plugins/python-ce/helpers/pycharm
+2022-06-06 17:13:02,090 - root - INFO - Login successful
+2022-06-06 17:20:08,092 - root - INFO - Login successful
+2022-06-06 17:20:10,964 - root - INFO - Logout successful
+2022-06-06 17:21:40,351 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dd5fdc0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2ae3b7eab37aeb58d655072ae8a40fc6/window
+2022-06-06 17:21:40,352 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dd5ee60>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2ae3b7eab37aeb58d655072ae8a40fc6/window
+2022-06-06 17:21:40,354 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10dd5fee0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2ae3b7eab37aeb58d655072ae8a40fc6/window
+2022-06-06 17:22:50,797 - root - INFO - Login successful
+2022-06-06 17:22:53,297 - root - INFO - Logout successful
+2022-06-06 17:28:27,172 - root - INFO - Login successful
+2022-06-06 17:28:29,294 - root - INFO - Logout successful
+2022-06-06 18:03:15,338 - root - INFO - Login successful
+2022-06-06 18:07:14,197 - root - INFO - Login successful
+2022-06-06 18:09:10,810 - root - INFO - Login successful
+2022-06-06 18:12:20,619 - root - INFO - Login successful
+2022-06-06 18:14:13,015 - root - INFO - Login successful
+2022-06-06 18:15:50,949 - root - INFO - Login successful
+2022-06-06 18:17:11,723 - root - INFO - Login successful
+2022-06-06 18:20:11,314 - root - INFO - Login successful
+2022-06-06 18:22:41,285 - root - INFO - Login successful
+2022-06-06 18:24:17,703 - root - INFO - Login successful
+2022-06-06 18:27:27,859 - root - INFO - Login successful
+2022-06-06 18:29:53,580 - root - INFO - Login successful
+2022-06-06 18:42:16,413 - root - INFO - Login successful
+2022-06-06 18:44:47,480 - root - INFO - Login successful
+2022-06-06 18:47:24,505 - root - INFO - Login successful
+2022-06-06 18:49:24,877 - root - INFO - Login successful
+2022-06-06 18:50:36,347 - root - INFO - Login successful
+2022-06-06 18:52:39,706 - root - INFO - Login successful
+2022-06-06 18:59:52,114 - root - INFO - Login successful
+2022-06-06 19:00:51,968 - root - INFO - Login successful
+2022-06-06 19:00:55,017 - root - INFO - Logout successful
+2022-06-06 19:15:14,569 - root - INFO - Login successful
+2022-06-06 19:15:17,317 - root - INFO - Logout successful
+2022-06-06 19:27:15,573 - root - INFO - Login successful
+2022-06-06 19:28:08,352 - root - INFO - Login successful
+2022-06-06 19:38:20,678 - root - INFO - Login successful
+2022-06-06 19:47:01,932 - root - INFO - Login successful
+2022-06-06 19:47:58,685 - root - INFO - Login successful
+2022-06-06 19:49:45,394 - root - INFO - Login successful
+2022-06-06 19:49:55,951 - root - INFO - Item added successfully
+2022-06-07 00:50:33,921 - root - INFO - Login successful
+2022-06-07 00:50:36,124 - root - INFO - Logout successful
+2022-06-07 16:43:18,139 - root - INFO - Login successful
+2022-06-07 16:43:20,860 - root - INFO - Logout successful

@@ -1,0 +1,28 @@
+2022-06-07 16:04:26,177 - root - INFO - Login successful
+2022-06-07 16:04:31,571 - root - INFO - Menu selected: ALL OTHER ITEMS
+2022-06-07 16:04:40,953 - root - INFO - Item found, availability removed
+2022-06-07 16:04:42,116 - root - INFO - Logout successful
+2022-06-07 16:04:43,403 - root - INFO - User Login successful
+2022-06-07 16:04:49,478 - root - INFO - Item is available
+2022-06-07 16:14:09,602 - root - INFO - Login successful
+2022-06-07 16:14:14,381 - root - INFO - Menu selected: ALL OTHER ITEMS
+2022-06-07 16:14:23,760 - root - INFO - Item found, availability removed
+2022-06-07 16:14:26,118 - root - INFO - Logout successful
+2022-06-07 16:14:27,665 - root - INFO - User Login successful
+--------------2022-06-07 16:17:45,851 - root - INFO - Login successful
+2022-06-07 16:18:07,795 - root - INFO - User Login successful
+2022-06-07 16:18:12,841 - root - INFO - --------------------------------
+2022-06-07 16:18:38,917 - root - INFO - Login successful
+2022-06-07 16:18:43,772 - root - INFO - Menu selected: ALL OTHER ITEMS
+2022-06-07 16:18:51,033 - root - INFO - Item found, availability removed
+2022-06-07 16:18:52,210 - root - INFO - Logout successful
+2022-06-07 16:18:53,685 - root - INFO - User Login successful
+2022-06-07 16:18:59,779 - root - INFO - Item is available
+2022-06-07 16:19:00,136 - root - INFO - --------------------------------
+2022-06-07 16:20:22,634 - root - INFO - Login successful
+2022-06-07 16:20:27,852 - root - INFO - Menu selected: ALL OTHER ITEMS
+2022-06-07 16:20:35,307 - root - INFO - Item found, availability removed
+2022-06-07 16:20:36,737 - root - INFO - Logout successful
+2022-06-07 16:20:38,212 - root - INFO - User Login successful
+2022-06-07 16:20:44,584 - root - INFO - Item is available
+2022-06-07 16:20:44,933 - root - INFO - --------------------------------

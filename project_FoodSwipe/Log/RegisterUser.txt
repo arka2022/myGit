@@ -1,0 +1,2 @@
+2022-06-07 16:36:21,530 - root - INFO - Moved to signUp page
+2022-06-07 16:36:31,610 - root - INFO - SignUp Done

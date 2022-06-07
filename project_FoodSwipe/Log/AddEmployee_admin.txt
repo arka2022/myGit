@@ -1,0 +1,31 @@
+2022-06-07 01:15:37,292 - root - INFO - Login successful
+2022-06-07 01:16:05,190 - root - INFO - Login successful
+2022-06-07 01:17:54,168 - root - INFO - Login successful
+2022-06-07 01:18:07,217 - root - INFO - User added successfully
+2022-06-07 01:26:08,085 - root - INFO - Login successful
+2022-06-07 01:26:30,590 - root - INFO - User not added
+2022-06-07 01:27:21,165 - root - INFO - Login successful
+2022-06-07 01:27:43,927 - root - INFO - User not added
+2022-06-07 01:28:45,220 - root - INFO - Login successful
+2022-06-07 01:28:59,792 - root - INFO - User not added
+2022-06-07 01:30:47,672 - root - INFO - Login successful
+2022-06-07 01:31:02,537 - root - INFO - User not added
+2022-06-07 01:33:10,450 - root - INFO - Login successful
+2022-06-07 01:33:45,347 - root - INFO - Login successful
+2022-06-07 01:34:08,403 - root - INFO - User not added
+2022-06-07 01:35:08,042 - root - INFO - Login successful
+2022-06-07 01:35:21,528 - root - INFO - User not added
+2022-06-07 01:37:04,894 - root - INFO - Login successful
+2022-06-07 01:37:17,778 - root - INFO - User added successfully
+2022-06-07 09:54:35,326 - root - INFO - Login successful
+2022-06-07 09:54:57,760 - root - INFO - User not added
+2022-06-07 09:55:58,325 - root - INFO - Login successful
+2022-06-07 09:56:12,618 - root - INFO - User added successfully
+2022-06-07 16:48:31,109 - root - INFO - Login successful
+2022-06-07 16:49:11,186 - root - INFO - Login successful
+2022-06-07 16:50:19,628 - root - INFO - Login successful
+2022-06-07 16:50:25,755 - root - INFO - Inside settings frame
+2022-06-07 16:50:42,481 - root - INFO - User not added
+2022-06-07 16:54:13,933 - root - INFO - Login successful
+2022-06-07 16:54:20,039 - root - INFO - Inside settings frame
+2022-06-07 16:54:36,839 - root - INFO - User not added

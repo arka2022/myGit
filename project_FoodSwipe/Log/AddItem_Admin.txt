@@ -1,0 +1,59 @@
+2022-06-06 20:20:02,706 - root - INFO - Login successful
+2022-06-06 20:20:08,903 - root - INFO - Item found, search successfull
+2022-06-07 01:18:43,825 - root - INFO - Login successful
+2022-06-07 01:22:40,148 - root - INFO - Login successful
+2022-06-07 01:22:50,535 - root - INFO - Item added successfully
+2022-06-07 01:24:27,141 - root - INFO - Login successful
+2022-06-07 01:24:37,911 - root - INFO - Item added successfully
+2022-06-07 01:25:26,899 - root - INFO - Login successful
+2022-06-07 01:25:37,072 - root - INFO - Item added successfully
+2022-06-07 10:45:49,308 - root - INFO - Login successful
+2022-06-07 10:47:50,366 - root - INFO - Login successful
+2022-06-07 10:48:52,579 - root - INFO - Login successful
+2022-06-07 11:04:51,036 - root - INFO - Login successful
+2022-06-07 11:08:58,934 - root - INFO - Login successful
+2022-06-07 11:09:03,367 - root - INFO - Login successful
+2022-06-07 11:09:05,865 - root - INFO - Logout successful
+2022-06-07 11:11:51,908 - root - INFO - Login successful
+2022-06-07 11:11:56,205 - root - INFO - Login successful
+2022-06-07 11:11:58,404 - root - INFO - Logout successful
+2022-06-07 11:13:43,846 - root - INFO - Login successful
+2022-06-07 11:13:48,276 - root - INFO - Login successful
+2022-06-07 11:13:50,301 - root - INFO - Logout successful
+2022-06-07 11:25:34,069 - root - INFO - Login successful
+2022-06-07 11:36:12,973 - root - INFO - Login successful
+2022-06-07 11:36:19,995 - root - INFO - Logout successful
+2022-06-07 11:43:08,192 - root - INFO - Login successful
+2022-06-07 11:44:33,870 - root - INFO - Login successful
+2022-06-07 11:44:40,425 - root - INFO - Logout successful
+2022-06-07 11:46:56,830 - root - INFO - Login successful
+2022-06-07 11:47:02,891 - root - INFO - Logout successful
+2022-06-07 11:49:31,193 - root - INFO - Login successful
+2022-06-07 12:06:04,462 - root - INFO - Login successful
+2022-06-07 12:06:11,601 - root - INFO - Logout successful
+2022-06-07 12:28:58,726 - root - INFO - Login successful
+2022-06-07 12:29:02,225 - root - INFO - Login successful
+2022-06-07 12:29:06,209 - root - INFO - Logout successful
+2022-06-07 12:32:35,410 - root - INFO - Login successful
+2022-06-07 12:32:42,945 - root - INFO - Logout successful
+2022-06-07 12:35:39,104 - root - INFO - Login successful
+2022-06-07 12:35:44,357 - root - INFO - Login successful
+2022-06-07 12:35:47,520 - root - INFO - Logout successful
+2022-06-07 14:35:18,267 - root - INFO - Login successful
+2022-06-07 14:35:21,847 - root - INFO - Login successful
+2022-06-07 14:35:24,051 - root - INFO - Logout successful
+2022-06-07 14:42:45,789 - root - INFO - Login successful
+2022-06-07 14:44:30,112 - root - INFO - Login successful
+2022-06-07 14:44:33,900 - root - INFO - Login successful
+2022-06-07 14:48:03,701 - root - INFO - Login successful
+2022-06-07 14:49:05,348 - root - INFO - Login successful
+2022-06-07 14:49:20,795 - root - INFO - Item added successfully
+2022-06-07 15:04:52,522 - root - INFO - Login successful
+2022-06-07 15:05:09,119 - root - INFO - Logout successful
+2022-06-07 15:05:10,634 - root - INFO - Login successful
+2022-06-07 15:08:43,769 - root - INFO - Login successful
+2022-06-07 15:08:45,696 - root - INFO - Login successful
+2022-06-07 16:58:13,754 - root - INFO - Login successful
+2022-06-07 16:58:34,165 - root - INFO - Item added successfully
+2022-06-07 16:59:09,371 - root - INFO - Login successful
+2022-06-07 16:59:25,275 - root - INFO - Item added successfully
